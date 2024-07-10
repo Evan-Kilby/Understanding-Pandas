@@ -1,0 +1,13 @@
+So, we're on to our first project! Congratulations. This assignment will test your ability to execute basic functions in Pandas. 
+Return to this tab when you have correctly loaded in your data and you wish to challenge yourself by completing the tasks associated with this project!
+
+Task 1: You will notice several columns are outside the scope of interest for this project. Alter the dataframe so that only the columns of interest are included
+
+Task 2: Create a frequency table so that the count for each age category (AgeC) can be viewed for the following categories: "All Participants", "Males", "Females".
+
+Task 3: Although there are Age categories available to you in this dataframe, create a new column "Age Cat Epi" that categorizes age as follows: 18-35, 36-59, >60. 
+        After that, create a frequency table so that counts are available for "All Participants", "Males", "Females"
+
+
+
+The values for these columns have been randomly generated and do not accurately reflect secular health trends. This database is for training purposes. 
