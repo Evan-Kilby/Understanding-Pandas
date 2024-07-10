@@ -1,4 +1,4 @@
-So, we're on to our first project! Congratulations. This assignment will test your ability to execute basic functions in Pandas. 
+So, we're on to our first project! Congratulations. This assignment will test your ability to execute basic functions in Pandas. Navigate to the file titled "Pandas Health Study Example.csv". You will use this file for assignments 1-3.
 Return to this tab when you have correctly loaded in your data and you wish to challenge yourself by completing the tasks associated with this project!
 
 Task 1: You will notice several columns are outside the scope of interest for this project. Alter the dataframe so that only the columns of interest are included
